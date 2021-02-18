@@ -33,6 +33,10 @@ chown steam:root main.cfg
 ```
 ![workaroundpicture2](../source/arkworkaround2.png)
 
+Now you server status should look like this
+
+![arkstatuswithv1.6.42](../source/arkstatus.png)
+
 I upgraded the tools to v1.6.42 and after that i did have the possibility to install mods via the arkmanager.
 
 The chown i did for my own because i cann´t install mods because i did not have permissions on the main.cfg.
